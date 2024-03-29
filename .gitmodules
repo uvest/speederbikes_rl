@@ -1,1 +1,4 @@
 
+[submodule "speederbikes_sim"]
+	path = speederbikes_sim
+	url = git@github.com:uvest/speederbikes_sim.git
