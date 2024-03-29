@@ -1,0 +1,3 @@
+[submodule "speederbikes-sim"]
+	path = speederbikes-sim
+	url = git@git.rwth-aachen.de:rl-sim-envs/speederbikes-sim.git

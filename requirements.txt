@@ -1,0 +1,7 @@
+gymnasium==0.29.1
+numpy==1.25.1
+pandas==2.0.3
+pygame==2.5.2
+scipy==1.12.0
+setuptools==68.0.0
+torch==2.0.1+cu118
